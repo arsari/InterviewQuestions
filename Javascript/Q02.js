@@ -1,5 +1,5 @@
 /**
- * Coding Interview Question 02
+ * Coding Interview Question #02
  * Best time to buy and sell a stock
  */
 
@@ -17,4 +17,4 @@ function solution(stocks) {
   return profit;
 }
 
-// output: 7
+console.log(solution(arr)); // output: 7

@@ -1,5 +1,5 @@
 /**
- * Coding Interview Question 01
+ * Coding Interview Question #01
  */
 
 for (var i = 0; i < 3; i++) {
@@ -10,10 +10,10 @@ for (var i = 0; i < 3; i++) {
 
 // output: 3 3 3
 
-for (let i = 0; i < 3; i++) {
+for (let j = 0; j < 3; j++) {
   setTimeout(() => {
-    console.log(`With let = ${i}`);
-  }, 1000 + i);
+    console.log(`With let = ${j}`);
+  }, 1000 + j);
 }
 
 // output: 0 1 2
