@@ -1,2 +1,9 @@
 # InterviewQuestions
- Examples of  iInterview questions approched with an specific programming languages.
+
+Examples of interview questions approached with an specific programming language.
+
+Programming Languages:
+
+* JAVA
+* Javascript
+* Python
